@@ -1,16 +1,19 @@
-### Hi there 👋
+# 主な活動
+## プログラミングスクールでメンター業務
 
-<!--
-**okok111/okok111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 50人以上の受講生のオリジナルwebアプリ開発サポート
+ - メンターの業務効率化を目的としたツールの開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Webサービス開発支援
+  - Rails
+  - JavaScript
+  - HTML/CSS
+  - Sass
+  - BootStrap
+- Slack
+  - テキストコミュニケーション
+  - 非言語コミュニケーション
+  - SlackAPI
+- Google Apps
+  - GAS
