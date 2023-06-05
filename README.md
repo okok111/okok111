@@ -18,4 +18,4 @@
 - Google Apps
   - GAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okok111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okok111&layout=compact&hide=liquid)](https://github.com/anuraghazra/github-readme-stats)
