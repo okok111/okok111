@@ -8,7 +8,6 @@
   - Ruby on rails
   - JavaScript
   - HTML/CSS
-  - Sass
   - BootStrap
 - python基礎コース運営
   - python基礎文法
